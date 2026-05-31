@@ -92,7 +92,7 @@ A Retrieval-Augmented Generation (RAG) AI assistant for Christian theology. Ask 
 
 ```bash
 git clone https://github.com/gokul-gopan-k/Christian-AI-Assistant.git
-cd <repo-folder>
+cd Christian-AI-Assistant
 ```
 
 ### 2. Configure environment variables
