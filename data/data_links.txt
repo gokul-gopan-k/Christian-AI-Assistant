@@ -1,0 +1,4 @@
+https://github.com/scrollmapper/bible_databases/tree/master/formats/sqlite kvj.db   --> bible verses
+https://thewestminsterstandard.org/westminster-shorter-catechism                    --> protestant teachings
+https://www.vatican.va/archive/ENG0015/_INDEX.HTM                                  --> catholic teachings
+https://orthodoxcatechism.com/How/catechism.htm                                    -->  orthodox teachings
